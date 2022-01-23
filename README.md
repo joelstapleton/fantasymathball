@@ -13,5 +13,3 @@ Dataframes, fantasy football, "mathematics".
     - When in situation X, situation Y causes D distribution of points.
   - Cross metrics
     - Positions X and Y are independent slots. However, Player A is more valuable to Position X then Player B is to Position Y.
-  
-Durasdfasdf
